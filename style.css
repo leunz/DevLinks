@@ -8,7 +8,7 @@
   --text-color: white;
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5); /* COR DA BORDA DA CAIXA */
-  --surface-color: rgba(255, 255, 255, 0.5); /* FUNDO NORMAL DAS CAIXAS */
+  --surface-color: rgba(255, 255, 255, 0.1); /* FUNDO NORMAL DAS CAIXAS */
   --surface-color-hover: rgba(255, 255, 255, 0.03); /* FUNDO QUANDO HOVER */
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
